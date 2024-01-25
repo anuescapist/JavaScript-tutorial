@@ -5,4 +5,4 @@ var a= 2;
 console.log( a **3);
 // here a is our variable ** for  3 her for number of times we want it power 
 console.log(a ** 0.5);
-// squareroot for var a
+// squareroot for var a we are finding so basicially we are finding square root of 2
